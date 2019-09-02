@@ -1,0 +1,30 @@
+cancers-pédiatriques-astrocytomesPar , MD, Rutgers, New Jersey Medical SchoolLes astrocytomes vont des tumeurs indolentes de bas grade (les plus fréquentes) à des tumeurs très malignes. En tant que groupe de tumeurs, les astrocytomes sont les tumeurs cérébrales les plus fréquentes chez l'enfant, représentant environ 40% des tumeurs. La plupart des cas se produisent entre les âges de 5 et 9 ans. Ces tumeurs peuvent survenir n'importe où dans le cerveau ou la moelle épinière, mais sont plus fréquentes dans le cervelet.La plupart des patients ont des symptômes compatibles avec une hypertension intracrânienne (p. ex., céphalées matinales, vomissements, léthargie). La localisation de la tumeur détermine d'autres symptômes et signes, p. ex.,Cervelet: faiblesse, tremblements et ataxieVoies visuelles: perte visuelle, exophtalmie ou nystagmusMoelle épinière: douleur, réflexes pathologiques, faiblesse, trouble de la marcheIRM avec contrasteBiopsieL'IRM avec injection de produit de contraste est l'imagerie de choix pour le diagnostic de la tumeur, déterminer son extension et la détection des récidives. La TDM avec injection de produit de contraste peut également être utilisée, bien qu'elle soit moins spécifique et moins sensible.Une biopsie est nécessaire pour déterminer le type et le grade tumoral. Ces tumeurs sont généralement classées comme de bas grade (p. ex., astrocytome pilocytique juvénile), ou de haut-grade (p. ex., glioblastome  Classement OMS des tumeurs astrocytaires). De nombreux pathologistes désignent les tumeurs de grades I et II comme des tumeurs de bas grade et les tumeurs de grades III et IV comme des tumeurs de haut grade. Cependant, les tumeurs de grade II présentant un risque plus élevé de rechute, certains pathologistes estiment que ces tumeurs ne doivent pas être considérés comme étant de bas grade.TumeurGrade tumoral
+IIIIIIIVAstrocytome sous-épendymaire à cellules géantesX
+
+
+Astrocytome pilocytiqueX
+
+
+Astrocytome pilomyxoïde
+X
+
+Astrocytome diffus
+X
+
+Xanthoastrocytome pléomorphe
+X
+
+Astrocytome anaplasique
+
+X
+Glioblastome
+
+
+XGlioblastome à cellules géantes
+
+
+XGliosarcome
+
+
+XAdapté de Louis DN, Ohgaki H, Wiestler OD, et al: WHO classification of tumors of the central nervous system. Acta Neuropathologica 114: 97–109, 2007.Résection chirurgicaleParfois radiothérapie et/ou chimiothérapieLe traitement de l'astrocytome dépend de la localisation et du type de la tumeur. En règle générale, plus le grade de la tumeur est bas, moins le traitement est intense et meilleur est le devenir.Bas grade: la résection chirurgicale est le traitement principal et la résection totale est l'objectif. Même après une récidive locale, une deuxième résection chirurgicale peut être bénéfique en fonction de la localisation de la tumeur. La radiothérapie est généralement réservée aux enfants de > 10 ans et dont les tumeurs ne peuvent être complètement réséquées, excisées ou lorsqu'elles évoluent/récidivent après la chirurgie. Chez l'enfant de < 10 ans dont les tumeurs ne peuvent être complètement réséquées ou progressent ou récidivent après la chirurgie, la chimiothérapie est utilisée à la place de la radiothérapie qui peut provoquer des troubles cognitifs à long terme. La plupart des enfants qui ont un astrocytome de bas grade guérissent.Haut grade: ces tumeurs sont traitées par une association de chirurgie (sauf si la localisation s'y oppose), radiothérapie et chimiothérapie. Le pronostic est défavorable; la survie globale à 3 ans n'est que de 20 à 30%.
+Merck and Co., Inc., Kenilworth, NJ, États-Unis  (connu sous le nom de MSD en dehors des États-Unis et du Canada) est un leader mondial dans le domaine de la santé et oeuvre au bien-être du monde. Du développement de nouveaux traitements permettant de traiter et de prévenir des maladies à l’aide des personnes dans le besoin, nous nous engageons à améliorer la santé et le bien-être des personnes dans le monde entier.  Le manuel a été publié pour la première fois en 1899 à titre de service à la communauté.  L’héritage de cette merveilleuse ressource prend à présent la forme du Manuel Merck aux États-Unis et au Canada et du Manuel MSD en dehors de l’Amérique du Nord.  En apprendre davantage à propos de notre engagement envers la Connaissance Médicale Mondiale.

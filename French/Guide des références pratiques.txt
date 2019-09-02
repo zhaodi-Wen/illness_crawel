@@ -1,0 +1,25 @@
+Guide des références pratiquesPar Aux États-Unis, la plupart des résultats des examens de laboratoire sont en unités conventionnelles; le reste du monde utilise le Système International d'Unités (SI) ou Unités Internationales (UI).  Les unités de base du SI sont régulièrement actualisées par un comité d'experts.De nombreuses unités SI sont les mêmes que les unités du système américain; cependant, les unités SI de concentrations ne le sont pas.  Les concentrations SI sont en moles (mol) ou fractions décimales de mole (p. ex., millimole, micromole) par unité de volume en litres (L).  Les unités conventionnelles sont rapportées comme des masse (p. ex., grammes, milligrammes) ou d'équivalence chimique (p. ex., milliéquivalents) par unité volume, qui peut être en litres ou fractions décimale de litres (p. ex., décilitres, millilitres).  Les résultats rapportés en quantité par 100 mL (1 dL) sont parfois exprimées en pourcentage (p. ex., 10 mg/dL peut être exprimé par 10 mg%).Moles, milligrammes et milliéquivalents: une mole est un nombre d'Avogadro (6,023 × 1023) d'entités élémentaires (p. ex., atomes, ions, molécules); la masse d'1 mole d'une substance est son poids atomique en grammes (p. ex., 1 mole de Na = 23 g, 1 mole de Ca = 40 g).  De la même façon, la masse d'une quantité donnée de substance divisée par son poids atomique donne le nombre des moles (p. ex., 20 g Na = 20/23 ou 0,87, mol).Un équivalent est une unité qui intègre la charge électrique et les moles; 1 équivalent représente un mole de charge électrique et est calculé en multipliant le nombre de moles de particules chargées dans une substance par la valence de cette substance.  Ainsi, pour les ions qui portent une charge +1 ou −1 (p. ex., Na+, K+, Cl−), 1 mole correspond à 1 équivalent (1 × 1 = 1); pour les ions qui portent des charges +2 ou −2 (p. ex., Ca2+), ½ mole correspond à 1 équivalent (½ × 2 = 1), et ainsi de suite pour les autres valeurs de valence.  Un milliéquivalent (mEq) correspond à 1/1000 d'un équivalent.Les formules suivantes peuvent être utilisées pour convertir les mEq, mg et mmol entre eux:mEq = mg/poids de la formule × valence = mmol × valencemg = mEq × poids de la formule /valence = mmol × poids de la formulemmol = mg/poids de la formule = mEq/valence(Note: poids de la formule = poids atomique ou moléculaire.)En alternative, des tables de conversion sont disponibles sur papier et sur internet.UnitéSous-unité équivalente
+Masse
+1 kilogramme (kg)1000 grammes (103 g)1 gramme (g)1000 milligrammes (103 mg)1 milligramme (mg)1000 microgrammes (10-3 g)1 microgramme (μg)1000 nanogrammes (10−6 g)1 nanogramme (ng)1000 picogrammes (pg; 10−9 g)
+Volume
+1 litre (L)1000 millilitres (mL)1 litre (L)1000 centimètres cubes (cc)Unité métriqueUnités non métriques équivalentes*
+Liquides
+30 millilitres (mL)1 once liquide (oz)250 mL8+ oz (onces) liquides500 mL1 + pinte1000 mL (1 litre)1 + quart
+Poids
+65 mg1 grain (gr)28,35 g1 oz (once)1 kg2,2 livres (lb)
+Linéaire
+1 millimètre (mm)0,04 pouces (in)1 centimètre (cm)0,4 dans les2,54 cm1 in1 mètre (m)39,37 in
+Domestique
+4 mL1 cuillère à café5 mL1 cuillère à café, médicale8 mL1 cuillère à soupe15 mL1 cuillerée à soupe (½ once liquide)240 mL1 tasse (8 onces liquides)*Approximation.ÉlémentSymbolePoids atomique*HydrogèneH1CarboneC12AzoteN14OxygèneO16SodiumNa23MagnésiumMg24PhosphoreP31ChloreCl35,5PotassiumK39CalciumCa40*Approximation.Application°C°FCongélation de l'eau au niveau de la mer032Intervalles cliniques36,096,8
+36,597,7
+37,098,6
+37,599,5
+38,0100,4
+38,5101,3
+39,0102,2
+39,5103,1
+40,0104,0
+40,5104,9
+41,0105,8
+41,5106,7
+42,0107,6Pasteurisation (longue),† 30 min à62,8145,0Pasteurisation (flash),† 15 s à71,7161,0Ébullition de l'eau au niveau de la mer100,0212.0*Conversion:Pour convertir les °F en °C, soustraire 32, puis multiplier par 5/9 ou 0,555.Pour convertir de °C en °F, multiplier par 9/5 ou 1,8, puis ajouter 32.†Selon le FDA Code of Federal Regulations, 1991.Merck and Co., Inc., Kenilworth, NJ, États-Unis  (connu sous le nom de MSD en dehors des États-Unis et du Canada) est un leader mondial dans le domaine de la santé et oeuvre au bien-être du monde. Du développement de nouveaux traitements permettant de traiter et de prévenir des maladies à l’aide des personnes dans le besoin, nous nous engageons à améliorer la santé et le bien-être des personnes dans le monde entier.  Le manuel a été publié pour la première fois en 1899 à titre de service à la communauté.  L’héritage de cette merveilleuse ressource prend à présent la forme du Manuel Merck aux États-Unis et au Canada et du Manuel MSD en dehors de l’Amérique du Nord.  En apprendre davantage à propos de notre engagement envers la Connaissance Médicale Mondiale.

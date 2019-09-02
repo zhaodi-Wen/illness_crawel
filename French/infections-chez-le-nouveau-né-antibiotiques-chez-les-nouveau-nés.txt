@@ -1,0 +1,176 @@
+infections-chez-le-nouveau-né-antibiotiques-chez-les-nouveau-nésPar , MD, University of Rochester School of Medicine and DentistryChez le nouveau-né, le liquide extra-cellulaire représente jusqu'à 45% du poids corporel total, ce qui nécessite d'administrer des doses de certains antibiotiques (p. ex., aminosides) relativement plus importantes que celles utilisées chez l'adulte. L'hypoalbuminémie du prématuré peut réduire la liaison des antibiotiques aux protéines. Les médicaments qui entrent en compétition avec la bilirubine sur les sites de liaison à l'albumine (p. ex., sulfamides, ceftriaxone) augmentent le risque d'ictère nucléaire.Certaines enzymes étant absentes ou insuffisantes chez le nouveau-né, la demi-vie de certains antibiotiques (p. ex., chloramphénicol) est allongée et le risque d'intoxication, augmenté. Les modifications du taux de filtration glomérulaire et de la sécrétion tubulaire au cours du 1er mois de vie nécessitent une modification de la posologie de des médicaments éliminés par le rein (p. ex., pénicillines, aminosides, vancomycine).(Voir aussi Revue générale des infections néonatales.)
+
+
+
+Intervalle d'administration
+
+Antibiotique
+Voie d'administration
+Dose individuelle
+Poids corporel ≤ 1200 g
+Poids corporel > 2000 g
+Commentaires
+Âge
+Âge
+
+≤ 7 jours
+8–28 jours
+≤ 7 jours
+8–28 jours
+Amikacine ( Doses recommandées de certains aminosides chez le nouveau-né)———————
+Amphotéricine B désoxycholateIV1 mg/kgq 24 hq 24 hq 24 hq 24 hAprès dilution dans du glucosé à 5% ou à 10% (le sérum physiologique ne doit pas être utilisé), perfusion d'une dose test de 0,1 mg/kg (maximum 1 mg) en 1 h pour évaluer la réponse fébrile et hémodynamique du patient;* si aucun effet indésirable grave n'est observé, on perfuse une dose thérapeutique (habituellement 0,25–1,5 mg/kg en 2–6 h), qui peut être administrée le même jour que la dose testAprès amélioration de l'état du patient, la dose peut être administrée 1 jour/2 jusqu'à la fin du traitementLa surveillance du taux de potassium et de la fonction hématologique et rénale est nécessaire
+Complexe lipidique d'amphotéricine BIV5 mg/kgq 24 hq 24 hq 24 hq 24 h
+
+Amphotéricine B liposomaleIV5 mg/kgq 24 hq 24 hq 24 hq 24 h
+
+AmpicillineIV, IM50–75 mg/kg50 mg/kg q 12 h75 mg/kg q 12 h50 mg/kg q 8 h50 mg/kg q 8 h
+
+IV perfusion de 15 à 30 min (≤ 10 mg/kg/min)
+
+Pour la méningite à streptocoque du groupe BIV75–100 mg/kg100 mg/kg q 8 h75 mg/kg q 6 h100 mg/kg q 8 h75 mg/kg q 6 h
+
+
+AzithromycineIV10 mg/kgq 24 hq 24 hq 24 hq 24 hPour la pneumonie à chlamydia, 20 mg/kg q 24 h
+AztréonamIV, IM30 mg/kgq 12 hq 8 h‡q 8 hq 6 hDonnées limitéesPour les bacilles Gram négatifs seulement
+Céfazoline†IV, IM25 mg/kgq 12 hq 8 h‡q 12 hq 8 hDonnées limitéesAucune indication en première intention; non utilisé comme traitement initial du sepsis ou de la méningite
+CéfépimeIV, IM30–50 mg/kg30 mg/kg q 12 h30 mg/kg q 12 h50 mg/kg q 12 h50 mg/kg q 12 hPeut être utilisé pour les infections à Pseudomonas aeruginosa (envisager d'administrer 50 mg/kg toutes les 8 h pour P. aeruginosa et d'autres agents pathogènes gram-négatifs agressifs)Parfois, utilisé dans la méningite, bien qu'habituellement en seconde intention et non toujours recommandé
+CéfotaximeIV, IM50 mg/kgq 12 hq 8 h‡q 12 h
+q 8 h
+Souvent, traitement de première intention en cas de méningite néonatale
+CéfoxitineIV, IM33–35 mg/kg35 mg/kg q 12 h33 mg/kg q 8 h‡33 mg/kg q 8 h33 mg/kg q 8 h
+
+CeftazidimeIV, IM50 mg/kgq 12 hq 8 h‡q 12 hq 8 hPénètre bien dans les méninges inflammées;70–90% du médicament sont éliminées dans les urines sans modification
+CeftriaxoneIV, IM50 mg/kg——q 24 hq 24 hDonnées limitéesPeut causer une pseudolithiase biliaire et, chez les prématurés ictériques, peut augmenter le risque d'encéphalopathie par hyperbilirubinémie en déplaçant la bilirubine de l'albumineContre-indiqué chez les nouveau-nés qui reçoivent ou devraient recevoir des perfusions de solutions contenant du calcium.Médicaments de seconde ligne dans la méningite, après la première semaine de vie 40–50 mg/kg q 12 h ou 80–100 mg/kg q 24 h
+CéfuroximeIV, IM50 mg/kgq 12 hq 8 h‡q 12 hq 8 h
+
+ChloramphénicolIV, IM25 mg/kgq 24 hq 12 h‡q 24 hq 12 hDoses ajustées par surveillance des taux sériques médicamenteux et des paramètres hématologiquesDans la méningite, les pics sériques souhaités sont = 15–25 μg/mL et les concentrations résiduelles = 5–15 μg/mLDans le cas des autres infections, la dose doit être ajustée de façon à atteindre un pic de concentration de 10–20 μg/mL et un taux résiduel de 5–10 μg/mLGrande variabilité des taux sériques et de la demi-vie sérique, en particulier chez le nouveau-né prématuré
+ClindamycineIV, IM5–9 mg/kg5 mg/kg q 8 h5 mg/kg q 8 h7 mg/kg q 8 h9 mg/kg q 8 hPour les anaérobies et les cocci Gram positif (pas les entérocoques)
+
+DaptomycineIV6 mg/kgq 12 hq 12 hq 12 hq 12 hPotentiel neurotoxique; utiliser avec prudence si pas d'autres options
+Fluconazole
+
+
+
+
+
+
+Pour le traitement.IV12 mg/kgq 24 hq 24 hq 24 hq 24 hLa dose de charge de 25 mg/kg a été suivie 24 h plus tard par la dose d'entretien indiquéePour la prophylaxieIV6 mg/kgDeux fois par semaineDeux fois par semaineDeux fois par semaineDeux fois par semaine
+
+Gentamicine, tobramycine ( Doses recommandées de certains aminosides chez le nouveau-né)———————
+LinézolideIV10 mg/kgq 12 hq 8 hq 8 hq 8 h
+
+Méropénème
+
+
+
+
+
+
+Dans la méningiteIV40 mg/kgq 12 hq 8 h§q 8 hq 8 h
+Pour le sepsis, infection intra-abdominale§IV20–30 mg/kg20 mg/kg q 12 h20 mg/kg q 8 h§20 mg/kg q 8 h30 mg/kg q 8 h
+
+MétronidazoleIV7,5–10 mg/kg7,5 mg/kg q 12 h7,5 mg/kg q 12 h7,5 mg/kg q 8 h10 mg/kg q 8 h
+Données limitéesDose de charge de 15 mg/kg
+Nafcilline, oxacilline
+
+
+
+
+
+
+Dans la méningiteIV, IM50 mg/kgq 12 hq 8 h‡q 8 hq 6 hSuivi nécessaire de la NFS et de la fonction hépatiqueL'excrétion peut être diminuée en raison d'une immaturité hépatique et rénale, ce qui peut mener à une accumulation dans le sérum et avoir des effets indésirables
+Dans les autres maladiesIV, IM25 mg/kgq 12 hq 8 h‡q 8 hq 6 h
+Oxacilline (voir Nafcilline, oxacilline)———————
+Pénicilline G benzathineIM50 000 unités/kgq 24 hq 24 hq 24 hq 24 h
+
+Pénicilline G, cristalline (aqueuse)
+
+
+
+
+
+
+Pour la syphilis congénitale, autres indicationsIV50 000 unités/kgq 12 hq 8 hq 12 hq 8 h
+Pour la méningite à streptocoque du groupe BIV100 000 unités/kgq 6 hq 6 hq 6 hq 6 h
+
+Pénicilline G, procaïneIM50 000 unités/kgq 24 hq 24 hq 24 hq 24 hAttention: abcès stérile et intoxication la procaïne 
+Pipéracilline/tazobactamIV (dose basée sur la composante pipéracilline)80–100 mg/kg100 mg/kg q 8 h80 mg/kg q 6 h║80 mg/kg q 6 h80 mg/kg q 6 h
+
+
+RifampicineIV10 mg/kgq 24 hq 24 hq 24 hq 24 h
+Tobramycine ( Doses recommandées de certains aminosides chez le nouveau-né)———————
+Vancomycine ( Posologie de la vancomycine chez les nouveau-nés).——————Posologie fonction de l'âge gestationnel et de la créatinine sérique ( Posologie de la vancomycine chez les nouveau-nés)*La nécessité d'administrer une dose test d'amphotéricine B est controversée.†La céfazoline ne traverse pas la barrière hématoencéphalique.‡Utiliser la dose pour les âges ≤ 7 jours jusqu'à 14 jours si le poids à la naissance est < 1000 g.§Ajuster la posologie après l'âge de 14 jours au lieu de après 7 jours.║Lorsque l'âge postmenstruel atteint > 30 semaines.
+Adapté d'après Bradley JS, Nelson JD: Nelson's Pediatric Antimicrobial Therapy, ed. 24. Itasca, American Academy of Pediatrics, 2018.
+
+
+
+Intervalle d'administration
+
+Aminosides
+Voie d'administration
+Dose individuelle
+< 30 semaines de gestation
+30 à 34 semaines de gestation
+≥ 35 semaines de gestation
+Commentaires
+
+
+
+Age post-natal
+Age post-natal
+Age post-natal
+
+
+
+
+0–14 jours
+> 14 jours
+0-10 jours
+> 10 jours
+0–7 jours
+> 7 jours
+
+Amikacine*IV, IM15–17 mg/kg15 mg/kg q 48 h15 mg/kg q 24 h15 mg/kg q 24 h15 mg/kg q 24 h15 mg/kg q 24 h17,5 mg/kg q 24 hLe contrôle des concentrations sériques du médicament est nécessaireTaux cible maximum 20–35 mg/L ou 10 × CMI; minimum <7 mg/LDiminution nécessaire de la posologie en cas d'insuffisance rénale
+Gentamicine*, tobramycineIV, IM4–5 mg/kg5 mg/kg q 48 h5 mg/kg q 36 h5 mg/kg q 36 h5 mg/kg q 36 h4 mg/kg q 24 h5 mg/kg q 24 hLe contrôle des concentrations sériques du médicament est nécessaireTaux cible visé: 6-12 mg/L ou 10 × CMI; minimum < 2 mg/LDiminution nécessaire de la posologie en cas d'insuffisance rénale*Un prélèvement doit être effectué 30 min après une perfusion IV de 30 min.CMI = concentration minimale inhibitrice.Adapté d'après Bradley JS, Nelson JD: Nelson's Pediatric Antimicrobial Therapy, ed. 24. Itasca, American Academy of Pediatrics, 2018.Créatinine sérique (mg/dL)Dose* (IV)Intervalle d'administration≤ 28 semaines de gestation> 28 semaines de gestation< 0,5< 0,715 mg/kgq 12 h0,5–0,70,7–0,920 mg/kgq 24 h0,8–11–1,215 mg/kgq 24 h1,1–1,41,3–1,610 mg/kgq 24 h> 1,4> 1,615 mg/kgq 48 h*La dose est administrée en perfusion IV lente en pas moins de 60 min. Commencer par une dose de charge de 20 mg/kg. Idéalement, ajuster le dosage pour obtenir une ASC:CMI de 24 h de 400 mg • h/L. Si ce calcul ne peut pas être effectué, surveiller le taux sérique minimal (cible = 10-12 μg/mL).AUC = area under the plasma concentration–time curve (aire sous la courbe, contration-temps); MIC = minimum inhibitory concentration.Adapté d'après Bradley JS, Nelson JD: Nelson's Pediatric Antimicrobial Therapy, ed. 24. Itasca, American Academy of Pediatrics, 2018.
+
+
+Intervalle d'administration
+Antibiotique
+
+
+
+
+
+
+
+Dose
+Poids corporel ≤ 2000 g†
+Poids corporel > 2000 g
+Commentaires
+
+
+Age post-natal
+Age post-natal
+
+
+≤ 7 jours
+8–28 jours
+≤ 7 jours
+8–28 jours
+Amoxicilline (peut être associées au clavulanate)15 mg/kg——q 12 hq 12 hDonnées limitées concernant l'utilisation chez les nouveau-nés de < 2000 gDes doses plus élevées peuvent être utilisées dans les infections graves ou dans le charbon (anthrax)Utiliser uniquement la suspension à 125 mg/5 mL si elle est associée au clavulanate
+
+Azithromycine10 mg/kgq 24 hq 24 hq 24 hq 24 h
+Médicament de choix pour le traitement ou la prévention de la coqueluche chez le nouveau-né < 1 mois;10 mg/kg administrés en 1 fois/jour pendant 5 joursPeut être utilisé pour le traitement de l'ophtalmie à chlamydia, le plus souvent 20 mg/kg q 24 heures pendant 3 joursAssocié à une sténose hypertrophique idiopathique du pylore, mais moins fréquemment que l'érythromycine
+Clindamycine5–9 mg/kg5 mg/kg q 8 h5 mg/kg q 8 h7 mg/kg q 8 h9 mg/kg q 8 hDonnées limitées
+Érythromycine10 mg/kgq 6 hq 6 hq 6 hq 6 hPour les infections à chlamydia ou la coqueluche chez le nourrisson de > 1 moisAssocié à la sténose hypertrophique idiopathique du pylore
+Fluconazole
+
+
+
+
+La dose de charge de 25 mg/kg a été suivie 24 h plus tard par la dose d'entretien indiquéePendant les 2 premières semaines de vie, un ajustement de l'intervalle d'administration à q 48 h peut être nécessairePour le traitement12 mg/kgq 24 hq 24 hq 24 hq 24 hDans les infections candidosiques mineures, (p. ex., le muguet) 6 mg/kg à j1, puis 3 mg/kg/dose q 24–72 hPour la prophylaxie6 mg/kgDeux fois/semaineDeux fois/semaineDeux fois/semaineDeux fois/semaine
+
+Flucytosine25 mg/kgq 8 hq 6 hq 6 hq 6 hDonnées limitéesPour retarder l'émergence de résistances, n'utiliser qu'en association avec de l'amphotéricine BIl peut être nécessaire d'augmenter l'intervalle posologique si la fonction rénale est anormaleSurveillance des taux recommandéeConcentrations sériques souhaitées: pic 50–100 mg/L, minimum 25–50 mg/L
+Linézolide10 mg/kgq 12 hq 8 hq 8 hq 8 hUtilisé pour les infections à Gram positif résistantes
+Métronidazole7,5–10 mg/kg7,5 mg/kg q 12 h7,5 mg/kg q 12 h7,5 mg/kg q 8 h10 mg/kg q 8 hDose de charge 15 mg/kgDonnées limitées
+Rifampicine10 mg/kgq 24 hq 24 hq 24 hq 24 hPour le traitementDes schémas posologiques supplémentaires peuvent être utilisés en prophylaxie d'Haemophilus influenzae de type b et du méningocoque*Sauf indication contraire, les doses s'adressent à des nouveau-nés (≤ 28 jours âge postnatal).†Traiter pendant ≤ 7 jours et jusqu'à 14 jours si le poids à la naissance est < 1000 g.Adapté d'après Bradley JS, Nelson JD: Nelson's Pediatric Antimicrobial Therapy, ed. 24. Itasca, American Academy of Pediatrics, 2018.Merck and Co., Inc., Kenilworth, NJ, États-Unis  (connu sous le nom de MSD en dehors des États-Unis et du Canada) est un leader mondial dans le domaine de la santé et oeuvre au bien-être du monde. Du développement de nouveaux traitements permettant de traiter et de prévenir des maladies à l’aide des personnes dans le besoin, nous nous engageons à améliorer la santé et le bien-être des personnes dans le monde entier.  Le manuel a été publié pour la première fois en 1899 à titre de service à la communauté.  L’héritage de cette merveilleuse ressource prend à présent la forme du Manuel Merck aux États-Unis et au Canada et du Manuel MSD en dehors de l’Amérique du Nord.  En apprendre davantage à propos de notre engagement envers la Connaissance Médicale Mondiale.
