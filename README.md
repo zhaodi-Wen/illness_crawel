@@ -1,9 +1,12 @@
 # illness_crawel
+## 2019.08.19
 爬取网站https://www.msdmanuals.com 的中文版，英文版和法语版内容</br>
 使用了scrapy框架和selenium框架</br>
 
-## 2020.4.23
-添加了一个网页的https://reference.medscape.com/drug/的爬取</br>
+## 2020.02.2
+添加网页r'https://medlineplus.gov/ency/ 的爬取</br>
+## 2020.04.23
+添加了一个网页的https://reference.medscape.com/drug/ 的爬取</br>
 本来打算使用dict将所有的网页的路径(保存在本地)和他的url形成一个字典,然后最后遍历这整个大dict下载文本</br>
 后面发现整个大的dict全部添加完要比较长的时间，需要进行4个大的for循环，</br>
 最后决定不保留dict,使用tuple记录每个路径和url,然后下载文本。
