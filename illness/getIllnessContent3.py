@@ -14,6 +14,8 @@ from importlib import reload
 import re
 import os
 from collections import OrderedDict
+from HTMLParser import HTMLParseError
+import requests
 from itertools import chain
 
 # from saveContent import saveContent
@@ -178,24 +180,33 @@ class GetContent(object):
         # print(content)
 
         #找到子标题
-        menus = content.find('div',class_ = 'sections-nav').find_all('li')
-        topDiv = content.find('div',class_ = 'drugdbsectioncontent drug')
-        newcontent = []
+        try:
+            menus = content.find('div',class_ = 'sections-nav').find_all('li')
+            topDiv = content.find('div',class_ = 'drugdbsectioncontent drug')
+            newcontent = []
 
-        patt1 = re.compile(r'<p>(.*?)</p>|<li>(.*?)</li>|<h3>(.*?)</h3>|<h4>(.*?)</h4>', re.S)
-        for i in range(1,len(menus)):
-            id = 'content_'+menus[i].a['href'][1:]
-            subDiv = topDiv.find('div',id = id)
-            subcontent = patt1.findall(str(subDiv))
-            signs = {'&lt;':'<','&gt;':'>','&amp;':'&'}
-            for x in subcontent:
-                x = "".join(x)+'\n'
-                for css_sign,sign in signs.items():
-                    x = x.replace(css_sign,sign)
-                newcontent.append(x)
+            patt1 = re.compile(r'<p>(.*?)</p>|<li>(.*?)</li>|<h3>(.*?)</h3>|<h4>(.*?)</h4>', re.S)
+            for i in range(1,len(menus)):
+                id = 'content_'+menus[i].a['href'][1:]
+                subDiv = topDiv.find('div',id = id)
+                subcontent = patt1.findall(str(subDiv))
+                signs = {'&lt;':'<','&gt;':'>','&amp;':'&'}
+                for x in subcontent:
+                    x = "".join(x)+'\n'
+                    for css_sign,sign in signs.items():
+                        x = x.replace(css_sign,sign)
+                    newcontent.append(x)
 
-        item.content =  newcontent
-        self.piplines(item)
+            item.content =  newcontent
+            self.piplines(item)
+        except HTMLParseError:
+            print("访问错误,无法找到对应tag")
+            pass
+        except requests.exceptions.RequestException as e:  # This is the correct syntax
+            print("网络问题 "+e)
+            pass
+
+
 
     def piplines(self, item):
         # folder = r'F:\\大学项目\\illness\\medscape\\'+item.+'\\'##保存路径
